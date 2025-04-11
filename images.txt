@@ -6,3 +6,4 @@ xhofe/alist:latest
 nginx
 pengzhile/fuclaude
 star7th/showdoc
+nginx:1.27.4
