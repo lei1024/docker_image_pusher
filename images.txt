@@ -9,3 +9,4 @@ star7th/showdoc
 nginx:1.27.4
 ubuntu:24.04
 keking/kkfileview
+rabbitmq
