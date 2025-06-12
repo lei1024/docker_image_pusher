@@ -12,3 +12,5 @@ keking/kkfileview
 rabbitmq
 redis:8.0
 redis:7.4.3
+powerjob:5.1.1
+nacos:2.4.1
