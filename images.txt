@@ -7,3 +7,4 @@ powerjob/powerjob-server:v5.1.1
 nacos/nacos-server:v2.4.2
 apache/seata-server:2.2.0
 sonarqube
+redis:7.4.5
