@@ -3,8 +3,4 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-powerjob/powerjob-server:v5.1.1
-nacos/nacos-server:v2.4.2
-apache/seata-server:2.2.0
-sonarqube
-redis:7.4.5
+python:3.9-slim
