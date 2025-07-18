@@ -4,3 +4,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 python:3.9-slim
+dingyufei/ai-code-review-helper:latest
