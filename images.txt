@@ -4,3 +4,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 ghcr.io/sunmh207/ai-codereview-gitlab:1.3.14
+nginx:1.28.0
